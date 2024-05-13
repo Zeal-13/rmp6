@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_bar_item1"
+        android:icon="@drawable/ic_human"
+        android:title="pepeEz" />
+    <item
+        android:id="@+id/bottom_bar_item2"
+        android:icon="@drawable/ic_human_sit"
+        android:title="pepeSad" />
+    <item
+        android:id="@+id/bottom_bar_item3"
+        android:icon="@drawable/ic_money"
+        android:title="pepeChill" />
+</menu>
